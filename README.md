@@ -20,6 +20,24 @@
 
 ---
 
+## 📸 功能截图
+
+> 以下截图展示核心功能界面（公测版 v0.2.0）
+
+### 🧮 补货计算器
+![补货计算器](https://raw.githubusercontent.com/MarkWarrior/replenishment-engine/main/docs/screenshots/calculator.png)
+
+### 📋 SKU 管理
+![SKU 管理](https://raw.githubusercontent.com/MarkWarrior/replenishment-engine/main/docs/screenshots/sku-manager.png)
+
+### 📈 销量追踪
+![销量追踪](https://raw.githubusercontent.com/MarkWarrior/replenishment-engine/main/docs/screenshots/sales-tracker.png)
+
+### 📋 补货历史
+![补货历史](https://raw.githubusercontent.com/MarkWarrior/replenishment-engine/main/docs/screenshots/replenishment-history.png)
+
+---
+
 ## 🚀 快速开始
 
 ### Windows 用户（推荐）
